@@ -1,4 +1,4 @@
-# task1
+Инструкция к заданию 1
 Перед началом работы с кодом необходимо:
 1.	Установить Python версии 3.7.2 (https://www.python.org/downloads/).
 2.	Установить Anaconda версии 3.7. Необходим для работы в Jupyter-Notebook (ссылка для скачивания https://www.anaconda.com/download/)
